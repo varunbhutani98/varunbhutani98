@@ -39,7 +39,14 @@ I'm Varun Bhutani, Student at 👨‍💻 Kurukshetra University kurukshetra Pur
 - ⚡ Fun fact: I spend almost 24 hours thinking about code
 
 
+[![Twitter: varunbhutani98](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/varunbhutani98)
+[![Linkedin: varunbhutani98](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhutani-6b4aa415b/)](https://www.linkedin.com/in/varun-bhutani-6b4aa415b/)
+[![GitHub varunbhutani98](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/varunbhutani98)
+
+
 
 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=varunbhutani98&&show_icons=true&title_color=1AC4C4&icon_color=0AC813&text_color=daf7dc&bg_color=010545">
+
+### Show some ❤️ by starring some of the repositories!
