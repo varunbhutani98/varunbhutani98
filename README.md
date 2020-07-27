@@ -39,9 +39,9 @@ I'm Varun Bhutani, Student at 👨‍💻 Kurukshetra University kurukshetra Pur
 - ⚡ Fun fact: I spend almost 24 hours thinking about code
 
 
-[![Twitter: varunbhutani98](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/varunbhutani98)
-[![Linkedin: varunbhutani98](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhutani-6b4aa415b/)](https://www.linkedin.com/in/varun-bhutani-6b4aa415b/)
-[![GitHub varunbhutani98](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/varunbhutani98)
+[![Twitter: varunbhutani98](https://img.shields.io/twitter/follow/Varun?style=social)](https://twitter.com/varunbhutani98)
+[![Linkedin: varunbhutani98](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhutani-6b4aa415b/)](https://www.linkedin.com/in/varun-bhutani-6b4aa415b/)
+[![GitHub varunbhutani98](https://img.shields.io/github/followers/Varun?label=follow&style=social)](https://github.com/varunbhutani98)
 
 
 
