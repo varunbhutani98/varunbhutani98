@@ -19,6 +19,17 @@
 ## About
 I'm Varun Bhutani, Student at 👨‍💻 Kurukshetra University kurukshetra Pursuing MCA. I am a DevOps Enthusiast, Future Cloud Evangalist☁ and App Developer  and love to integrate all these technologies to create highly-skilled tech product. .🙏
 
+
+
+- 🔭 I’m currently working on Flutter ,Hybrid Cloud , DevOps 
+- 🌱 I’m currently learning Flutter
+- 👯 I’m looking to collaborate on Youtube 
+- 🤔 I’m looking for help with DevOps
+- 💬 Ask me about any tech related stuff
+- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/varun-bhutani-6b4aa415b 
+- ⚡ Fun fact: I spend almost 24 hours thinking about code
+
+
 **Languages and Tools:**  
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -29,14 +40,6 @@ I'm Varun Bhutani, Student at 👨‍💻 Kurukshetra University kurukshetra Pur
 <code><img height="80" src="https://d3pmluylahx1gi.cloudfront.net/wp-content/uploads/2019/08/04212458/Nub8-What-is-Devops.png"></code> 
 <code><img height="80" src="https://miro.medium.com/max/730/1*WCsqMt85nMP0DvYv0JnkOA.png"></code> 
 
-
-- 🔭 I’m currently working on Flutter ,Hybrid Cloud , DevOps 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Youtube 
-- 🤔 I’m looking for help with DevOps
-- 💬 Ask me about any tech related stuff
-- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/varun-bhutani-6b4aa415b 
-- ⚡ Fun fact: I spend almost 24 hours thinking about code
 
 
 [![Twitter: varunbhutani98](https://img.shields.io/twitter/follow/Varun?style=social)](https://twitter.com/varunbhutani98)
