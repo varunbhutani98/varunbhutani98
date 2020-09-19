@@ -22,9 +22,9 @@ I'm Varun Bhutani, Student at 👨‍💻 Kurukshetra University kurukshetra Pur
 
 
 - 🔭 I’m currently working on Flutter ,Hybrid Cloud , DevOps 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter , AWS Cloud
 - 👯 I’m looking to collaborate on Youtube 
-- 🤔 I’m looking for help with DevOps
+- 🤔 I’m looking for help with DevOps , App Development 
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: Linkedin - https://www.linkedin.com/in/varun-bhutani-6b4aa415b 
 - ⚡ Fun fact: I spend almost 24 hours thinking about code
